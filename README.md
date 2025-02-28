@@ -1,7 +1,8 @@
 # BANG SE EUN 👩‍💻🐶
 
 ![Seeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=phybie&theme=dark&show_icons=true)
-🔗 [백준 프로필 바로가기](https://solved.ac/phybie0426/)
+
+# Baekjoon profile [백준 프로필 바로가기](https://solved.ac/phybie0426/)
 
 # SKILL STACK 🛠️
 ### Languages
