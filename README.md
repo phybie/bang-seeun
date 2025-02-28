@@ -3,7 +3,7 @@
 ![Seeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=phybie&theme=dark&show_icons=true)
 
 ### Baekjoon profile
-🔗 [백준 프로필 바로가기](https://solved.ac/phybie0426/)
+🔗 [백준 프로필 바로가기]([https://solved.ac/phybie0426/](https://solved.ac/profile/phybie0426))
 
 # SKILL STACK 🛠️
 ### Languages
