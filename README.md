@@ -3,7 +3,7 @@
 ![Seeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=phybie&theme=dark&show_icons=true)
 
 ### Baekjoon profile
-[![Baekjoon](https://static.solved.ac/misc/solvedac-logo.svg)](https://solved.ac/phybie0426/)
+[![Baekjoon](https://static.solved.ac/misc/solvedac-logo.svg)](https://github.com/user-attachments/assets/c9501a6e-b62b-4c0f-9ca9-4faf86c27b4c)](https://solved.ac/phybie0426/)
 
 # SKILL STACK 🛠️
 ### Languages
