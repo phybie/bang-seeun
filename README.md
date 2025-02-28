@@ -3,7 +3,7 @@
 ![Seeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=phybie&theme=dark&show_icons=true)
 
 ### Baekjoon profile
-[![Baekjoon](https://upload.wikimedia.org/wikipedia/commons/6/69/Baekjoon_Online_Judge_logo.png)](https://solved.ac/phybie0426/)
+[![Baekjoon](https://static.solved.ac/misc/solvedac-logo.svg)](https://solved.ac/phybie0426/)
 
 # SKILL STACK 🛠️
 ### Languages
