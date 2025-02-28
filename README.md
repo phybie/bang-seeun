@@ -3,8 +3,7 @@
 ![Seeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=phybie&theme=dark&show_icons=true)
 
 ### Baekjoon profile
-🔗 [백준 프로필 바로가기](https://www.acmicpc.net/user/phybie0426)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=phybie0426)](https://solved.ac/phybie0426/)
 # SKILL STACK 🛠️
 ### Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
