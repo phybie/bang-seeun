@@ -1,6 +1,6 @@
 # BANG SE EUN 👩‍💻🐶
 
-![Seeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Seeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=phybie&theme=dark&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=phybie0426)](https://solved.ac/phybie0426/)
 # SKILL STACK 🛠️
 ### Languages
